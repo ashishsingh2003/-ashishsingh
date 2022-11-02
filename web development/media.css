@@ -1,0 +1,20 @@
+section{
+    width:70vw;
+    height:80vh;
+    border:3px solid black;
+    margin:auto;
+    
+  }
+  h1{
+    text-align:center;
+  }
+  @media screen and (max-width:545px){
+    section{
+      background-color:cyan;
+    }
+  }
+  @media screen and (max-width:768px),(orientation:portrait){
+    h1{
+      color:red;
+    }
+  }

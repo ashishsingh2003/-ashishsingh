@@ -1,0 +1,48 @@
+img{
+    display: block;
+    margin-left:0px;                   
+    margin-right:0rem;
+  text-align:center}
+#quality{
+border:solid;
+border:darkorchid;
+border:2px dotted;
+height:max-content;
+align-items:center;
+}
+
+p[class="hacker"] 
+{
+color: aqua;
+}
+.name h1,p{      
+  color:blue;
+}
+h2~p{
+  font-style: italic;
+}
+.container{
+  text-align: center;
+  margin-top: auto;
+  margin: auto;  
+  border:solid 10px;
+  background-color: rgb(53, 196, 53);
+height:250px;
+width:250px;
+align-items:center;
+}
+.container:hover{
+  background-color: aqua;
+  cursor:pointer;
+}
+hr{
+  border-style: none;
+}
+a::before{
+  color:brown;
+}
+.text{
+  padding: 6%;
+  position:absolute;
+  offset-position:center;
+}

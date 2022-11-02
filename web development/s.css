@@ -1,0 +1,40 @@
+.box{
+    border:solid 20 px;
+    border-style:solid;
+    min-height: 125px;
+    margin:auto;
+    gap:10%;
+    max-width: 100px;
+    padding:auto;
+    font-size: 2em;
+    background-color: aqua;
+}
+.boxo{
+    border:solid 20 px;
+    border-style:solid;
+    margin-top: auto;
+    margin:auto;
+    min-height: 300px;
+    max-width: 350px;
+    font-size: 14px;
+    background-color: blue;
+}
+.inline{
+    padding:5px;
+    margin:auto;
+    border:6px solid;
+    height:100px;
+    width:150px;
+    display:block;
+}
+.bax{
+   
+     border:  solid 1px;
+    height:10vh;
+    width:20vw;
+    padding:10px;
+    margin:10px;
+    background-color: cyan;
+    position:sticky;
+    
+}
